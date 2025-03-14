@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Şükrücan Alkan</h1>
 <h3 align="center">Ben Bilgisayar Mühendisliği son sınıf öğrencisiyim.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukru-alkan" alt="sukru-alkan" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukru-alkan&label=Profile%20views&color=0e75b6&style=flat" alt="sukru-alkan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
