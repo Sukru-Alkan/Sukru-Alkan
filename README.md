@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Şükrücan Alkan</h1>
-<h3 align="center">Ben Bilgisayar Mühendisliği son sınıf öğrencisiyim.</h3>
+<h3 align="center">Bilgisayar Mühendisliği son sınıf öğrencisiyim.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukru-alkan&label=Profile%20views&color=0e75b6&style=flat" alt="sukru-alkan" /> </p>
 
